@@ -28,7 +28,7 @@ To get started with the project, simply clone the repository and run the Jupyter
 - Matplotlib
 - Seaborn
 - Plotly Express
-- requests
+
 
 ## Contributing
 
